@@ -9,6 +9,9 @@ The program:
 - Computes the cumulative balance over time
 - Fits a linear trend to estimate average daily expenditure from the downward slope
 
+The program's end result is a plot like this:
+![Example of daily expenditure plot](example_plots/example_1.png)
+
 ---
 
 ## 🚀 Getting Started
