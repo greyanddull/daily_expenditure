@@ -1,0 +1,8 @@
+# Ignore our own accounts
+JL_accounts
+
+# Ignore our own filter files
+filters/JL_filters.yaml
+
+# Keep the filters folder
+!filters/

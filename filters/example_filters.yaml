@@ -1,0 +1,11 @@
+remove_if_amount:
+  - gt: 0
+  - lt: -5000
+
+remove_if_description:
+  - Trading
+  - Investec
+  - Moneybox
+  - To A/C 25756001
+  - From A/C 25752383
+  - From A/C 25051520
